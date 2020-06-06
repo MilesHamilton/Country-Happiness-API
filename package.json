@@ -1,5 +1,5 @@
 {
-  "name": "event-webpage",
+  "name": "country-happiness-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MilesHamilton/Event-webpage.git"
+    "url": "git+https://github.com/MilesHamilton/Country-Happiness-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MilesHamilton/Event-webpage/issues"
+    "url": "https://github.com/MilesHamilton/Country-Happiness-API/issues"
   },
-  "homepage": "https://github.com/MilesHamilton/Event-webpage#readme",
+  "homepage": "https://github.com/MilesHamilton/Country-Happiness-API#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1",
