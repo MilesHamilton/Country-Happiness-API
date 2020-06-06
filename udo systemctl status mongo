@@ -1,0 +1,11 @@
+[0;1;31m●[0m mongodb.service - LSB: An object/document-oriented database
+   Loaded: loaded (/etc/init.d/mongodb; generated)
+   Active: [0;1;31mfailed[0m (Result: exit-code) since Sat 2020-06-06 04:58:25 EDT; 6h ago
+     Docs: man:systemd-sysv-generator(8)
+
+Jun 06 04:58:24 miles-Lenovo-IdeaPad-FLEX-14API systemd[1]: Starting LSB: An object/document-oriented database...
+Jun 06 04:58:24 miles-Lenovo-IdeaPad-FLEX-14API mongodb[2323]:  * Starting database mongodb
+Jun 06 04:58:25 miles-Lenovo-IdeaPad-FLEX-14API mongodb[2323]:    ...fail!
+Jun 06 04:58:25 miles-Lenovo-IdeaPad-FLEX-14API systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongodb.service: Control process exited, code=exited, status=1/FAILURE[0m
+Jun 06 04:58:25 miles-Lenovo-IdeaPad-FLEX-14API systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongodb.service: Failed with result 'exit-code'.[0m
+Jun 06 04:58:25 miles-Lenovo-IdeaPad-FLEX-14API systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start LSB: An object/document-oriented database.[0m
